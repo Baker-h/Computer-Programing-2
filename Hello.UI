@@ -1,1 +1,30 @@
 print("Hello, World!") 
+# This is a single line comment
+""" Data types:
+Int - Intiger (Whole Number)
+Float - Floating pointer number (Number with a decimal)
+str - string (any text, in quoets)
+chr - Character (single keyboard character, in single quoets)
+bool - Boolean (either True or False, Only)
+"""
+
+""" Arithmic Operaters:
++ Add
+- Subtract
+* Multiply
+/ Divide
+// Floor Divide (Divide and round down to the nearist int)
+% Mod (Modulus/Remainder from int diduction)
+** Pow
+"""
+
+""" Ajustment Operators:
+= Value Assigment (x = y)
++= Add to (x += y is shorthand for x = x + y)
+-= Subtract From (Shorthand for x = x - y)
+*= 
+/=
+//=
+%=
+**=
+"""
