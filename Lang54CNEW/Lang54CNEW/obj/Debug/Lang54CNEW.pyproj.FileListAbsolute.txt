@@ -1,0 +1,10 @@
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\obj\Debug\Lang54CNEW.pyprojResolveAssemblyReference.cache
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\bin\Debug\Lang54CNEW.exe.config
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\bin\Debug\Lang54CNEW.exe
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\bin\Debug\Lang54CNEW.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\bin\Debug\IronPython.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\bin\Debug\IronPython.Modules.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\bin\Debug\Microsoft.Scripting.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Lang54CNEW\Lang54CNEW\obj\Debug\Lang54CNEW.exe

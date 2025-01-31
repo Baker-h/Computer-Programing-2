@@ -1,0 +1,12 @@
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\bin\Debug\Fav Game or Movie.exe.config
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\bin\Debug\Fav Game or Movie.exe
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\bin\Debug\Fav Game or Movie.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\bin\Debug\IronPython.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\bin\Debug\IronPython.Modules.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\bin\Debug\Microsoft.Scripting.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\obj\Debug\Fav Game or Movie.pyprojResolveAssemblyReference.cache
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\obj\Debug\Fav_Game_or_Movie.MainForm.resources
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\obj\Debug\Fav Game or Movie.pyproj.GenerateResource.Cache
+C:\Users\baker.h1\Documents\SharpDevelop Projects\Fav Game or Movie\Fav Game or Movie\obj\Debug\Fav Game or Movie.exe
